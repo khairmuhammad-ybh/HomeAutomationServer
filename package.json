@@ -1,0 +1,16 @@
+{
+  "name": "rpihomeautomation",
+  "version": "1.0.0",
+  "description": "Rpi home automation with 8-Channels Relay",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jatizso",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "onoff": "^5.0.1"
+  }
+}
